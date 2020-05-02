@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45" started-at="2020-04-12T19:56:19 IST" finished-at="2020-04-12T19:56:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45" started-at="2020-04-12T19:56:19 IST" finished-at="2020-04-12T19:56:19 IST">
+      <class name="MavenGroup.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:MavenGroup.SeleniumTest@544fe44c]" name="BrowserAutomation" duration-ms="1" started-at="2020-04-12T19:56:19 IST" finished-at="2020-04-12T19:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="Browserlogin()[pri:0, instance:MavenGroup.SeleniumTest@544fe44c]" name="Browserlogin" duration-ms="1" started-at="2020-04-12T19:56:19 IST" finished-at="2020-04-12T19:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlogin -->
+      </class> <!-- MavenGroup.SeleniumTest -->
+      <class name="MavenGroup.RestApiTest">
+        <test-method status="PASS" signature="NavigateJira()[pri:0, instance:MavenGroup.RestApiTest@31dc339b]" name="NavigateJira" duration-ms="5" started-at="2020-04-12T19:56:19 IST" finished-at="2020-04-12T19:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateJira -->
+        <test-method status="PASS" signature="TwitterLogin()[pri:0, instance:MavenGroup.RestApiTest@31dc339b]" name="TwitterLogin" duration-ms="0" started-at="2020-04-12T19:56:19 IST" finished-at="2020-04-12T19:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TwitterLogin -->
+      </class> <!-- MavenGroup.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
