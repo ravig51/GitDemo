@@ -13,6 +13,13 @@ public class SeleniumTest {
 
 		
 	}
+	public void BrowserAutomation22222() {
+		System.out.println("selenium");
+		System.out.println("selenium2");
+		System.out.println("selenium3");
+
+		
+	}
 	@Test
 	public void Browserlogin() {
 		
