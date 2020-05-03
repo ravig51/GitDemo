@@ -19,4 +19,10 @@ public class SeleniumTest {
 		System.out.println("sel 2");
 
 	}
+	@Test
+	public void Browserlogin2() {
+		
+		System.out.println("sel 22");
+
+	}
 }
