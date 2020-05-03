@@ -9,6 +9,8 @@ public class RestApiTest {
 		
 		System.out.println("restapi");
 	
+		System.out.println("restapi3");
+		System.out.println("restapi2");
 
 	}
 	@Test
