@@ -8,6 +8,8 @@ public class RestApiTest {
 	public void NavigateJira() {
 		
 		System.out.println("restapi");
+	
+
 	}
 	@Test
 	public void TwitterLogin() {
